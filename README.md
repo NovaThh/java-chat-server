@@ -1,2 +1,2 @@
 # java-chat-server
-Client Server chat room using Java
+A project for Client Server chat room using Java
